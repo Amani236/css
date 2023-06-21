@@ -1,0 +1,38 @@
+body{
+background-color: rgb(182, 233, 229);
+margin: 0;
+padding: 0;
+}
+h2{
+    color: #d9a6e6;
+    height: 150px;
+    border: 5px double rgb(80, 77, 71);
+    text-align: center;
+    letter-spacing: 10px;
+    line-height: 150px;
+    font-size: 100px;
+
+}
+
+ul li{
+    display: inline;
+    list-style: none;
+    margin-right: 15px;
+    margin-right: 15px;
+    color: rgb(202, 128, 165);
+    letter-spacing: 5px;
+    font-size: 30px;
+    line-height: 150px;
+    font-style:italic
+    height: auto;
+    width: 90%;
+    border: 2px outset rgb(80, 77, 71);
+    line-height: 50px;
+
+}
+
+h3{
+	color: hsl(236, 100%, 50%);
+    font-size: 100px;
+
+}
